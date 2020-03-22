@@ -1,2 +1,7 @@
 # finans
-Projeto de site utilizando Bootstrap
+Projeto final do curso de Bootstrap, criação de site fictício de gestão financeira:
+
+
+
+
+
