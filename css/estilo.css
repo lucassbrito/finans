@@ -1,0 +1,13 @@
+#home {
+	color: white;
+}
+
+.caixa {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.caixa2 div p a{
+	text-decoration: none;
+}
